@@ -6,17 +6,21 @@ body {
 }
 
 h1 {
+	color: #66BFBF;
 	font-size: 565%;
 	margin-top:0;
+	margin-bottom: 20px;;
 	font-family: 'Parisienne', cursive;
 }
 
 h2 {
+color: #66BFBF;
 margin-top:50px;
 font-family: 'Asul', sans-serif;
 }
 
 h3 {
+color: #11999E;
 font-family: 'Asul', sans-serif;
 }
 .round{
@@ -62,9 +66,17 @@ font-family: 'Asul', sans-serif;
 border-width:20px;
 }
 .fon{
+	color: #66BFBF;
 	font-size: 2.5em;
+	line-height: 0;
 	text-decoration: underline;
+	font-weight: bold;
+	margin-top: 0;
 }
+.fon:hover{color: #11999E;}
 .font{
 	font-size: 1.2em;
+}
+.backcolor:hover{
+	color: #11999E;
 }
