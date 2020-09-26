@@ -38,10 +38,12 @@ font-family: 'Asul', sans-serif;
 	left: 500px;
 }
 .middle-container {
+	background-color: white;
 	position: relative;
 }
 
 .bottom-container {
+	background-color: white;
 	position: relative;
 }
 
