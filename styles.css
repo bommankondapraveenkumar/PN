@@ -2,7 +2,8 @@ body {
 
 	text-align: center;
 	font-family: "Merriweather", serif;
-	font-size: 100%
+	font-size: 100%;
+	background-color: #ecf4f3;
 }
 
 h1 {
@@ -34,7 +35,6 @@ font-family: 'Asul', sans-serif;
 	padding-top: 100px;
 }
 .pose{
-
 	left: 500px;
 }
 .middle-container {
@@ -79,5 +79,4 @@ border-width:20px;
 }
 .backcolor:hover{
 	color: #11999E;
-	
 }
