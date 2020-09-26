@@ -1,5 +1,5 @@
 body {
-	margin= 0;
+
 	text-align: center;
 	font-family: "Merriweather", serif;
 	font-size: 100%;
@@ -10,13 +10,12 @@ h1 {
 	color: #66BFBF;
 	font-size: 565%;
 	margin-top:0;
-	margin-bottom: 20px;;
+	margin-bottom: 0;
 	font-family: 'Parisienne', cursive;
 }
-
 h2 {
 color: #66BFBF;
-margin-top:50px;
+margin-top:0;
 font-family: 'Asul', sans-serif;
 }
 
@@ -52,7 +51,7 @@ font-family: 'Asul', sans-serif;
 }
 
 .top-cloud {
-	right: 300px;
+	right: 200px;
 	top: 50px;
 	position: absolute;
 }
