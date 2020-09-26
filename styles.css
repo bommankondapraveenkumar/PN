@@ -1,11 +1,9 @@
 body {
-
 	text-align: center;
 	font-family: "Merriweather", serif;
 	font-size: 100%;
 	background-color: #ecf4f3;
 }
-
 h1 {
 	color: #66BFBF;
 	font-size: 565%;
@@ -13,13 +11,11 @@ h1 {
 	margin-bottom: 20px;;
 	font-family: 'Parisienne', cursive;
 }
-
 h2 {
 color: #66BFBF;
 margin-top:50px;
 font-family: 'Asul', sans-serif;
 }
-
 h3 {
 color: #11999E;
 font-family: 'Asul', sans-serif;
@@ -46,17 +42,14 @@ font-family: 'Asul', sans-serif;
 	background-color: #ecf4f3;
 	position: relative;
 }
-
 .pro {
 	text-decoration: underline;
 }
-
 .top-cloud {
 	right: 300px;
 	top: 50px;
 	position: absolute;
 }
-
 .bottom-cloud {
 	position: absolute;
 	left: 200px;
@@ -73,7 +66,9 @@ border-width:20px;
 	font-weight: bold;
 	margin-top: 0;
 }
-.fon:hover{color: #11999E;}
+.fon:hover{
+	color: #11999E;
+}
 .font{
 	font-size: 1.2em;
 }
